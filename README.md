@@ -1,4 +1,4 @@
-# YaPMaster
+# YaP_Master_OCR
 
 OCR Medical Reference Yandex Workshop Project
 
